@@ -11,15 +11,9 @@
 // Export for declarative use in your application
 //export {jquery, bootstrap}
 
-
-$('.carousel').carousel({
-    interval: 2000
-  })
-
-$('#myCarousel').on('slide.bs.carousel', function () {
-// do something…
+$(document).ready(function(){
+  $("#carouselExampleIndicators").carousel({ interval: 5000, pause: "hover" });
 })
-
 
 function sendMail() {
     var name = $('#name').val();
