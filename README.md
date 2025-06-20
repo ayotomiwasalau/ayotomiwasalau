@@ -15,9 +15,6 @@ I design, build, and deploy cloud-based data intelligence platforms.<br>I specia
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayotomiwasalau&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayotomiwasalau&icon=0&color=0)](https://visitcount.itsvg.in)
 
